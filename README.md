@@ -1,5 +1,5 @@
 # Elm Continuation Example
 
-This is just every simple example of usage of [elm-continue](https://package.elm-lang.org/packages/turboMaCk/elm-continue/latest/).
+This is just a every simple example of usage of [elm-continue](https://package.elm-lang.org/packages/turboMaCk/elm-continue/latest/).
 
-Tabbed module view returns `Continue` so it can do ony it's own part of a logic and than hand controll to the caller.
+Tabbed module's view returns `Continue` so it can do only its own part of a logic and then hand control to the caller to.
